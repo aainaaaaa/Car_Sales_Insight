@@ -7,7 +7,7 @@
 This data analysis project aims to provide insights into car sales performance over the past year. By analyzing key sales metrics, customer preferences, and regional trends, we seek to identify patterns, optimize sales strategies, and support data-driven decision-making to enhance overall dealership performance.
 
 ### Data Sources
-Sales Data: The primary dataset used for this analysis is the "carsales_data.csv" file, which contains detailed information about each car sold.
+Sales Data: The primary dataset used for this analysis is the "car_sales.csv" file, which contains detailed information about each car sold.
 
 ### Tools
 - PowerBI - Data Cleaning, Data Analysis, Creating reports
