@@ -2,13 +2,12 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-
+- [Results/ Findings](#results-findings)
 ### Project Overview
 This data analysis project aims to provide insights into car sales performance over the past year. By analyzing key sales metrics, customer preferences, and regional trends, we seek to identify patterns, optimize sales strategies, and support data-driven decision-making to enhance overall dealership performance.
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "carsales_data.csv" file, which contains detailed information about each car sold.
-
 
 ### Tools
 - PowerBI - Data Cleaning, Data Analysis, Creating reports
@@ -24,24 +23,21 @@ EDA involved exploring the sales data to answer key questions, such as:
 - How has the average selling price changed over time?
 - How many cars have been sold, and what are the trends (body style, color, and region)?
 - Which dealer regions and companies are driving or lagging in sales?
- 
-### Data Analysis
-Include some interesting code/features worked with
-‘’’sql
-SELECT * FROM table1
-WHERE cond = 2;
 
-### Results/Findings
-The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+### Results/ Findings
+The analysis results were summarized as follows:
+1. Total sales have grown by 23.59% compared to the previous year.
+2. The average selling price has decreased by 0.79%, reflecting a $0.22K reduction from last year.
+3. Car sales volume has increased by 2.62K units, marking a 24.57% rise over the previous year.
+4. SUVs are the highly preferred body style, while pale white remains the most popular car color.
+5. Chevrolet had the highest sales among all car brands
+6. The Austin dealership recorded the highest sales, whereas Middletown had the lowest performance. 
 
 ### Recommendations
-Based on the analysis, we recommend the following actions:
-- Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in Category A.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
+Based on the analysis, the following actions are recommended:
+- Increase inventory for high-demand SUV models and pale white color to meet customer preferences and boost sales.
+- Introduce targeted promotions and special incentives to improve sales performance in Middletown.
+- Enhance pricing strategies by offering value-added services (e.g., free maintenance, extended warranties) instead of reducing prices to maintain profitability.
+- Leverage Chevrolet’s popularity by strengthening sales efforts through discounts, financing options, and promotional campaigns.
+- Align dealership stock with regional demand trends, ensuring more inventory is available in high-demand areas.
 
-### Limitations
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue
