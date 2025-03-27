@@ -23,6 +23,9 @@ EDA involved exploring the sales data to answer key questions, such as:
 - How has the average selling price changed over time?
 - How many cars have been sold, and what are the trends (body style, color, and region)?
 - Which dealer regions and companies are driving or lagging in sales?
+### Dashboard Overview
+![Car Sales Background](https://github.com/user-attachments/assets/4b70b161-6915-4f22-8565-577acb292754)
+![Screenshot 2025-03-27 150830](https://github.com/user-attachments/assets/bb4e0535-6f39-4368-8e6d-2b103c4643ad)
 
 ### Results/ Findings
 The analysis results were summarized as follows:
